@@ -55,7 +55,6 @@ class AppTest {
         attributes.put("lang", "ru");
         attributes.put("id", "abc");
 
-
         List<Tag> children = List.of(
             new SingleTag("br", Map.of("id", "s")),
             new SingleTag("hr", Map.of("class", "a-5"))
