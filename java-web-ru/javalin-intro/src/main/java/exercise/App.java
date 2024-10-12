@@ -1,9 +1,5 @@
 package exercise;
 
-// BEGIN
-
-// END
-
 import io.javalin.Javalin;
 
 public final class App {
